@@ -1,5 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
-using Scheduler.Data;
+﻿using Scheduler.Data;
 using System.Diagnostics.CodeAnalysis;
 
 namespace Scheduler.Context

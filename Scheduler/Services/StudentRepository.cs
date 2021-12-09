@@ -1,5 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
-using Scheduler.Context;
+﻿using Scheduler.Context;
 using Scheduler.Data;
 using Scheduler.Inetrfaces;
 using System.Collections.Generic;
