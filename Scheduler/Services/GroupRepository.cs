@@ -1,4 +1,5 @@
-﻿using Scheduler.Context;
+﻿using Microsoft.EntityFrameworkCore;
+using Scheduler.Context;
 using Scheduler.Core.Exceptions;
 using Scheduler.Data;
 using Scheduler.Inetrfaces;

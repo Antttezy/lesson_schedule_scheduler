@@ -1,4 +1,6 @@
-﻿namespace Scheduler.Migrations
+﻿using Microsoft.EntityFrameworkCore.Migrations;
+
+namespace Scheduler.Migrations
 {
     public partial class NullableGroup : Migration
     {

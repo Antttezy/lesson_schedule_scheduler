@@ -295,7 +295,7 @@ namespace Scheduler.Controllers
             {
                 await groupRepository.UpdateGroup(group);
             }
-            catch (Exception e)
+            catch (Exception)
             {
 
             }
